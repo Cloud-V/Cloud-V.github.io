@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-#  name             : "AUC Open Hardware Lab"
-  avatar           : "profile.png"
-  bio              : "Advancing OS Hardware Design"
+  name             : #"AUC Open Hardware Lab"
+  avatar           : "logo.png"
+  bio              : #"Advancing OS Hardware Design"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
